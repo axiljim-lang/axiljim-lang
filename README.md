@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Axil Jim (axiljim-lang)
+# Hi there 👋 I'm Axil Jim 
 
 ## 🎓 About Me  
 I’m a Information Technology student from Cabadbaran City, Philippines.  
